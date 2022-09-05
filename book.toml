@@ -9,7 +9,7 @@ title = "Государственные НКО и их открытость"
 git-repository-url = "https://github.com/ivbeg/book-govngo"
 additional-js = ["mermaid.min.js", "mermaid-init.js"]
 additional-css = ['mdbook-admonish.css']
-
+site-url = "/book-govngo"
 
 [preprocessor]
 
