@@ -5,6 +5,9 @@ multilingual = false
 src = "src"
 title = "Государственные НКО и их открытость"
 
+[build]
+build-dir = 'docs'
+
 [output.html]
 git-repository-url = "https://github.com/ivbeg/book-govngo"
 additional-js = ["mermaid.min.js", "mermaid-init.js"]
