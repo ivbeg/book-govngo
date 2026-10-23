@@ -1,0 +1,9 @@
+{
+  "label": "Что менять",
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "Четыре предложения заключения, разложенные на контекст, варианты и критерий.",
+    "slug": "/policy"
+  }
+}

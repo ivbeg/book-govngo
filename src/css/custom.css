@@ -1,0 +1,13 @@
+:root {
+  --ifm-font-size-base: 17px;
+  --ifm-line-height-base: 1.65;
+}
+
+.markdown {
+  --ifm-h1-font-size: 2rem;
+}
+
+article img {
+  max-width: 100%;
+  height: auto;
+}

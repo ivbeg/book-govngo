@@ -1,0 +1,9 @@
+{
+  "label": "Приложения",
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "Глоссарий, таблицы сумм и список источников.",
+    "slug": "/appendices"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "label": "Финансирование",
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "Субсидии, контракты, пожертвования и каналы, по которым суммы нет.",
+    "slug": "/finance"
+  }
+}
